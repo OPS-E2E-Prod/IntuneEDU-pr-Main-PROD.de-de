@@ -16,7 +16,7 @@ searchScope:
 - IntuneEDU
 ms.openlocfilehash: 998b207bdfc0f8d48cd7eddff3020d00673377a2
 ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62145971"
