@@ -23,13 +23,14 @@
   "branches_to_filter": [
     "master-sxs",
     "live",
-    "main-sxs"
+    "main"
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
   "contribution_branch_mappings": {
-    "live-sxs": "live"
+    "live-sxs": "live",
+    "main-sxs": "main"
   },
   "dependent_repositories": [
     {
